@@ -21,15 +21,15 @@ function SobreMim () {
   
     const projetos = [
     {nome: 'Cronômetro', descricao: 'Criei cronômetro simples para aplicar os meus conhecimentos de HTML, CSS e JavasCript e para aprimorar a minha lógica de programação.',
-    link: 'https://lnkd.in/dW894K5j'
+    link: 'https://augustokaren.github.io/cronometro/'
     },
 
     {nome: 'Lista de Tarefas', descricao: 'Esta aplicação  permite realizar a criação de tarefas e de visualizalas, desenvolvi essa aplicação usando HTML, CSS e JavaScript puro.',
-    link: 'https://lnkd.in/dec44QcS'
+    link: 'https://augustokaren.github.io/ListadeTarefas/'
     },
 
     {nome:'Calculadora', descricao: 'Desenvolvi uma calculadora funcional utilizando HTML, CSS e JavaScript, com o objetivo de aprimorar minhas habilidades em manipulação do DOM e lógica de programação.',
-        link:'https://lnkd.in/dwa8nCi4'
+        link: 'https://augustokaren.github.io/Calculadora/'
     }
 
 
