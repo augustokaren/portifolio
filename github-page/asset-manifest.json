@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/karen_portfolio/static/css/main.043a31a7.css",
+    "main.js": "/karen_portfolio/static/js/main.1cb7fd5a.js",
+    "static/js/453.e86be82b.chunk.js": "/karen_portfolio/static/js/453.e86be82b.chunk.js",
+    "static/media/KarenAugusto.png": "/karen_portfolio/static/media/KarenAugusto.86385983fc9de3a316af.png",
+    "index.html": "/karen_portfolio/index.html",
+    "main.043a31a7.css.map": "/karen_portfolio/static/css/main.043a31a7.css.map",
+    "main.1cb7fd5a.js.map": "/karen_portfolio/static/js/main.1cb7fd5a.js.map",
+    "453.e86be82b.chunk.js.map": "/karen_portfolio/static/js/453.e86be82b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.043a31a7.css",
+    "static/js/main.1cb7fd5a.js"
+  ]
+}
